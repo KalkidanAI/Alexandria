@@ -95,3 +95,5 @@ Open your browser at [http://localhost:8080](http://localhost:8080).
 
 ### Option 2: Direct File Access
 Simply double-click `index.html` to open it directly in any modern browser (Chrome, Edge, Firefox, Safari).
+
+<!-- verified author: Kalkidan Wondimagegnehu -->
